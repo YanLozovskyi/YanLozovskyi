@@ -3,14 +3,10 @@
         Hi there, I'm Yan!
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
     </h1>
-    <div style="display: flex; align-items: center;">
+    <div>
         <a href="https://www.codewars.com/users/YanLozovskyi">
             <img src="https://www.codewars.com/users/YanLozovskyi/badges/small" />
         </a>
-        <p align="center">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=00A42D&center=true&repeat=true&vCenter=true&width=650&lines=Coding+My+Way+to+Innovation."
-                alt="Typing SVG" />
-        </p>
     </div>
 </div>
 
@@ -29,7 +25,10 @@ Welcome to my GitHub profile💪
 [<img align="left" alt="telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][Telegram]
 [<img align="left" alt="linkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][LinkedIn]
 [<img align="left" alt="email" width="30px" src="https://i.ibb.co/0Mr1ZMr/gmail.png" />][Email]
-
+<p align="center">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=00A42D&center=true&repeat=true&vCenter=true&width=650&lines=Coding+My+Way+to+Innovation."
+                alt="Typing SVG" />
+        </p>
 <br>
 
 ## My skills:
