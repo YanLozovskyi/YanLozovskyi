@@ -23,7 +23,7 @@ Welcome to my GitHub profile💪
 
 <p align="center">
             <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=00A42D&center=true&repeat=true&vCenter=true&width=650&lines=Coding+My+Way+to+Innovation."
-                alt="Typing SVG" />
+                alt="Typing SVG" style="width: 500px;"/>
         </p>
 
 ## Contact me:
