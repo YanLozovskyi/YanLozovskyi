@@ -12,7 +12,7 @@
 
 ### About Me :
 
-<img alt="gif" width="200px" align="right" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" />
+<img alt="gif" width="200px" align="right" src="https://tenor.com/ru/view/web-developer-mycrxn-javascript-php-css-react-wordpress-mongo-db-html-bootsrap-gif-21308149" />
 
 Welcome to my GitHub profile💪
 
@@ -22,9 +22,10 @@ Welcome to my GitHub profile💪
 - 🤔 I’m looking to expand my skills, get more experience, and show my abilities 
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com font=Fira+Code&duration=5000&pause=500&color=00A42D&center=true&repeat=true&vCenter=true&width=650&lines=Coding+My+Way+to+Innovation." 
-alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=00A42D&center=true&repeat=true&vCenter=true&width=650&lines=Coding+My+Way+to+Innovation." 
+    alt="Typing SVG"/>
 </p>
+
 
 ## Contact me:
 [<img align="left" alt="telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][Telegram]
