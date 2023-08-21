@@ -12,6 +12,8 @@
 
 ### About Me :
 
+<img alt="gif" width="200px" align="right" src="https://media.tenor.com/images/35c9d7f97a3d8713e0620d392ba94d7b/tenor.gif" />
+
 Welcome to my GitHub profile💪
 
 - 🔭 I'm currently studying to become a Full Stack developer.
