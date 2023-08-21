@@ -12,7 +12,7 @@
 
 ### About Me :
 
-<img alt="gif" width="200px" align="right" src="https://tenor.com/ru/view/web-developer-mycrxn-javascript-php-css-react-wordpress-mongo-db-html-bootsrap-gif-21308149" />
+<img alt="gif" width="200px" align="right" src="https://media.tenor.com/jM0aoM8e-iEAAAAC/web-developer-mycrxn.gif" />
 
 Welcome to my GitHub profile💪
 
