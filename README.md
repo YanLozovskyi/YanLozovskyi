@@ -12,7 +12,7 @@
 
 ### About Me :
 
-<img alt="gif" width="200px" align="right" src="https://media.tenor.com/jM0aoM8e-iEAAAAC/web-developer-mycrxn.gif" />
+<img alt="gif" width="200px" align="right" src="https://media.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif" />
 
 Welcome to my GitHub profile💪
 
