@@ -20,7 +20,24 @@ Welcome to my GitHub profile
 - 🤔 I’m looking to expand my skills, get more experience, and show my abilities 
 
 ## Contact me:
-[<img align="left" alt="telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />](https://t.me/Bizzy2517)
+[<img align="left" alt="telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][Telegram]
 [<img align="left" alt="linkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][LinkedIn]
 [<img align="left" alt="email" width="30px" src="https://i.ibb.co/0Mr1ZMr/gmail.png" />][Email]
 
+## My skills:
+<img align="left" alt="HTML5" width="35px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
+<img align="left" alt="CSS3" width="35px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+<img align="left" alt="TypeScript" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
+<img align="left" alt="ReactJS" width="35px" src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" />
+<img align="left" alt="Redux" width="35px" src="https://i.ibb.co/0cj9MGy/redux.png" />
+<img align="left" alt="Node.js" width="35px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
+<img align="left" alt="MongoDB" width="35px" src="https://i.ibb.co/54yxf1R/mongodb.png" />
+<img align="left" alt="MySQL" width="35px" src="https://i.ibb.co/jvtwpC4/mysql.png" />
+<img align="left" alt="Webpack" width="35px" src="https://i.ibb.co/BBxMQQS/webpack.png" />
+<img align="left" alt="Git" width="35px" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" />
+<img align="left" alt="GitHub" width="35px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
+
+[Telegram]: https://t.me/Bizzy2517
+[LinkedIn]: https://www.linkedin.com/in/yanlozovskyi/
+[Email]: mailto:yanlozovskiy@gmail.com
