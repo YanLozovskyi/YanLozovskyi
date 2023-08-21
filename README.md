@@ -1,12 +1,16 @@
-<div id="header"">
+<div id="header">
     <h1>
-    Hi there, i'm Yan!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+        Hi there, I'm Yan!
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
     </h1>
-    <div>
+    <div style="display: flex; align-items: center;">
         <a href="https://www.codewars.com/users/YanLozovskyi">
-        <img src="https://www.codewars.com/users/YanLozovskyi/badges/small" />
+            <img src="https://www.codewars.com/users/YanLozovskyi/badges/small" />
         </a>
+        <p align="center">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=00A42D&center=true&repeat=true&vCenter=true&width=650&lines=Coding+My+Way+to+Innovation."
+                alt="Typing SVG" />
+        </p>
     </div>
 </div>
 
@@ -20,12 +24,6 @@ Welcome to my GitHub profile💪
 - 🌱 I'm currently learning React and actively improving my JavaScript skills.
 - 👯 I'm open to new collaborations and projects, and I'm ready for challenges.
 - 🤔 I’m looking to expand my skills, get more experience, and show my abilities 
-
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=00A42D&center=true&repeat=true&vCenter=true&width=650&lines=Coding+My+Way+to+Innovation." 
-    alt="Typing SVG"/>
-</p>
-
 
 ## Contact me:
 [<img align="left" alt="telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][Telegram]
