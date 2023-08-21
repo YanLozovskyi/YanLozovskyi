@@ -10,9 +10,9 @@
     </div>
 </div>
 
-### About Me :
+## About Me :
 
-<img alt="gif" width="200px" align="right" src="https://media.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif" style="margin-top: -20px;" />
+<img alt="gif" width="200px" align="right" src="https://media.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif" />
 
 Welcome to my GitHub profile💪
 
