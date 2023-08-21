@@ -12,17 +12,26 @@
 
 ### About Me :
 
-Welcome to my GitHub profile
+Welcome to my GitHub profile💪
 
 - 🔭 I'm currently studying to become a Full Stack developer.
 - 🌱 I'm currently learning React and actively improving my JavaScript skills.
 - 👯 I'm open to new collaborations and projects, and I'm ready for challenges.
 - 🤔 I’m looking to expand my skills, get more experience, and show my abilities 
 
+<p align="center">
+    <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=00A42D&center=true&repeat=true&vCenter=true&width=650&lines=Coding+My+Way+to+Innovation."
+    alt="Typing SVG"
+    />
+</p>
+
 ## Contact me:
 [<img align="left" alt="telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][Telegram]
 [<img align="left" alt="linkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][LinkedIn]
 [<img align="left" alt="email" width="30px" src="https://i.ibb.co/0Mr1ZMr/gmail.png" />][Email]
+
+<br>
 
 ## My skills:
 <img align="left" alt="HTML5" width="35px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
