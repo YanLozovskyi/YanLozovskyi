@@ -16,8 +16,7 @@
 
 Welcome to my GitHub profile💪
 
-- 🔭 I'm currently studying to become a Full Stack developer.
-- 🌱 I'm currently learning React and actively improving my JavaScript skills.
+- 🔭 I'm сurrently working on Next.js projects and enhancing my JavaScript skills.
 - 👯 I'm open to new collaborations and projects, and I'm ready for challenges.
 - 🤔 I’m looking to expand my skills, get more experience, and show my abilities 
 
