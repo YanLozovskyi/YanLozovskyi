@@ -16,8 +16,8 @@
 
 Welcome to my GitHub profile💪
 
-- 🔭 I'm a junior Full Stack developer.
-- 🌱 I'm сurrently working on Next.js projects and enhancing my JavaScript skills.
+- 🔭 I'm a Full Stack developer.
+- 🌱 I'm сurrently working on Next.js projects and enhancing my skills.
 - 👯 I'm open to new collaborations and projects, and I'm ready for challenges.
 - 🤔 I’m looking to expand my skills, get more experience, and show my abilities 
 
